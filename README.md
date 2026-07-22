@@ -4,14 +4,6 @@ A simple RESTful CRUD (Create, Read, Update, Delete) API built using **FastAPI**
 
 ---
 
-## 🚀 Features
-
-- Create a new product
-- Get all products
-- Get a product by ID
-- Update an existing product
-- Delete a product
-- Interactive API documentation with Swagger UI
 
 ---
 
