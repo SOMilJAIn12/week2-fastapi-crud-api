@@ -1,6 +1,6 @@
 # Product CRUD API
 
-A simple RESTful CRUD (Create, Read, Update, Delete) API built using **FastAPI**. This project demonstrates how to perform CRUD operations on products using an in-memory list without a database.
+
 
 ---
 
